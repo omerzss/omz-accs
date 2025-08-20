@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/omerzss/omz-accs/
+    type: markup
+
+folders:
+  /products/: /products/default
